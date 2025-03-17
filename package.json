@@ -9,6 +9,6 @@
     "install-client": "cd client && npm install",
     "start-client": "cd client && npm run start"
   },
-  "author": "ashutosh44ks",
+  "author": "",
   "license": "ISC"
 }

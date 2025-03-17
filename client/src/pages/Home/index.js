@@ -32,7 +32,7 @@ const Home = () => {
   return (
     <div className="p-8">
       <div className="flex justify-between items-center">
-        <h3>Greetings {username}</h3>
+        <h3>Hello {username}!</h3>
         <button
           className="btn btn-primary"
           onClick={() => navigate("/new_task")}

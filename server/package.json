@@ -7,7 +7,7 @@
     "start": "node index.js",
     "server": "nodemon index.js"
   },
-  "author": "ashutosh44ks",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
