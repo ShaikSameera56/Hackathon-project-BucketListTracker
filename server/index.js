@@ -36,7 +36,7 @@ app.use("/api/auth", authRouter);
 const tasksRouter = require("./routes/tasks");
 app.use("/api", tasksRouter);
 
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log("Server listening the port " + port);
 });
